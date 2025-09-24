@@ -1,0 +1,49 @@
+leftnav:
+- identifier: 3d071376-075b-43d9-9c14-867b6a999448
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 68847d16-d962-0f2b-7563-d82fad77467d
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: 7bf757f0-ee16-467b-183f-a463ef550502
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: ca3d66e6-6d29-02d9-e372-6a8a8c156fcd
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes/
+  weight: 40
+- identifier: 7425dbab-24bd-40b9-d0c0-c704cab7eab2
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 50
+- identifier: a23d0f4a-042a-1057-52a6-11c2407732da
+  name: Writing Requirement
+  pageRef: /pages/writing-requirement
+  weight: 60
+- identifier: 81867148-2c05-0830-8342-fa4892f8a248
+  name: Related Resources and Links
+  pageRef: /pages/related-resources-and-links
+  weight: 70
+- identifier: 660f69dc-90f6-8ff4-4c2c-5cba6ae66746
+  name: Course History
+  pageRef: /pages/instructor-insights/course-history
+  parent: 68847d16-d962-0f2b-7563-d82fad77467d
+  weight: 10
+- identifier: 985ac65b-cc68-4e19-91e3-f8c9b61ab09e
+  name: Entrepreneurs in the Classroom
+  pageRef: /pages/instructor-insights/entrepreneurs-in-the-classroom
+  parent: 68847d16-d962-0f2b-7563-d82fad77467d
+  weight: 20
+- identifier: af386daa-f958-7966-36a9-7ab93e85af35
+  name: 'Advice for Educators: Partner with Practitioners'
+  pageRef: /pages/instructor-insights/advice-for-educators-partner-with-practitioners
+  parent: 68847d16-d962-0f2b-7563-d82fad77467d
+  weight: 30
+- identifier: c7ee5bb7-639f-f7e8-b518-da2c4546f236
+  name: Speaker Biographies
+  pageRef: /pages/lecture-notes/speaker-biographies
+  parent: ca3d66e6-6d29-02d9-e372-6a8a8c156fcd
+  weight: 10

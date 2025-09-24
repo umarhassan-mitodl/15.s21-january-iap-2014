@@ -1,0 +1,60 @@
+{
+  "term": "January IAP",
+  "year": "2014",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business"
+    ],
+    [
+      "Business",
+      "Entrepreneurship"
+    ],
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Business",
+      "Innovation"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "legacy_uid": "88328ebe-b64c-1a69-c5ac-7a046d3861f1",
+  "instructors": {
+    "content": [
+      "bc907887-7e27-c705-4389-5592a2555f53"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5d678a44-4454-4691-af4c-007574815543",
+    "website": "15-s21-nuts-and-bolts-of-business-plans-january-iap-2014"
+  },
+  "course_title": "Nuts and Bolts of Business Plans",
+  "course_description": "The nuts and bolts of preparing a New Venture Plan and launching the venture will be explored in this twenty-fifth\u00a0annual course offering. The course is open to members of the MIT Community and to others interested in entrepreneurship. It is particularly recommended for persons who are interested in starting or are involved in a new business or venture. Because some of the speakers will be judges of the MIT $100K Entrepreneurship Competition, persons who are planning to enter the Competition should find the course particularly useful. In the past approximately 50% of the class has been from the Engineering / Science / Architecture Schools and 50% from the Sloan School of Management.\n\nThe course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.S21",
+  "course_image_thumbnail": {
+    "content": "6ca97e8d-aa30-cb98-87d7-88e0f4d6bf6c",
+    "website": "15-s21-nuts-and-bolts-of-business-plans-january-iap-2014"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Written Assignments",
+    "Lecture Notes",
+    "Instructor Insights"
+  ],
+  "site_uid": "0244dc10-9482-4d7f-b938-f2364cb3bf65",
+  "site_short_id": "15.s21-january-iap-2014",
+  "site_url_path": "courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014",
+  "title": "Course Metadata"
+}
